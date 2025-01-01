@@ -1,4 +1,4 @@
-# Fetch Countries Names and Abbreviations
+# Fetch Country Names and Abbreviations
 
 This is a Python script that fetches and displays information about countries from the REST Countries API. It retrieves the list of all countries, displaying their common names and abbreviations.
 
